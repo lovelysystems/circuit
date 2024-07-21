@@ -7,7 +7,8 @@ Changelog
 - Slightly optimize `pausableState` [#1455](https://github.com/slackhq/circuit/pull/1455).
 - **Change**: `OverlayHost.showFullScreenOverlay` now returns the PopResult? that was popped by the screen.
 - **Change**: Remove `backstace` dependency from `circuit-runtime`. It was unnecessary and also accidentally imposed Compose UI on the runtime/presenter artifacts.
-
+- **New**: Add tvos targets to runtime.
+- 
 0.22.2
 ------
 
